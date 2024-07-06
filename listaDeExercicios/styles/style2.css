@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.blocos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bloco{
+    background-color: aqua;
+    color: aqua;
+    border: 10px solid red;
+}
+
+.container p{
+    color: aliceblue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.responsivo-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.responsivo-container h1{
+    color: aliceblue;
+}

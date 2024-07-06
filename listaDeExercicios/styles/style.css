@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.titulo-blog{
+    color: blue;
+}
+
+.texto-destaque{
+    color: rgb(166, 255, 0);
+}
+
+.urgente{
+    color: red;
+}
