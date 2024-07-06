@@ -6,3 +6,4 @@ para o desenvolvimento desse repositório foi utilizado os cursos:
 -HTML e CSS: cabeçalho, footer e variáveis CSS.
 -HTML e CSS: trabalhando com responsividade e publicação de projetos.
 e para cada curso foi utilizado um figma diferente, os figmas estão no arquivo figma.
+Para ver o resultado do projeto segue o link: https://htmlcssaluracurso.vercel.app/
